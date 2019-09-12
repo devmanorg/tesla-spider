@@ -1,0 +1,2 @@
+scrapy==1.7.3
+staticjinja==0.3.5
