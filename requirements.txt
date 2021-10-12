@@ -1,2 +1,2 @@
-scrapy==1.7.3
+scrapy==1.8.1
 staticjinja==0.3.5
